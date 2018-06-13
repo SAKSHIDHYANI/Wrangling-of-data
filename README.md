@@ -1,1 +1,1 @@
-This project is on wrangling data avaliable to us related to twitter archive we rate dogs
+This project is on wrangling the data that was avaliable to us related to twitter archive we rate dogs
